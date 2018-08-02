@@ -1,0 +1,35 @@
+.company-details {
+  display: flex;
+}
+
+.company-details ~ .company-details {
+  margin-top: 20px;
+}
+
+.company-details .main-details {
+  width: 230px;
+}
+
+.company-details .main-details .company-name {
+  font-style: normal;
+}
+
+.company-details .main-details .period {
+  margin-top: 2px;
+  color: #999;
+  font-size: 0.8em;
+}
+
+.company-details .projects {
+  flex: 1;
+}
+
+.company-details .projects .project ~ .project {
+  margin-top: 15px;
+}
+
+.company-details .projects .project .technologies {
+  margin-top: 2px;
+  color: #999;
+  font-size: 0.8em;
+}

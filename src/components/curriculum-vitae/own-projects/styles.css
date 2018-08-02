@@ -1,0 +1,11 @@
+.cv-own-projects .project {
+  display: flex;
+}
+
+.cv-own-projects .project ~ .project {
+  margin-top: 20px;
+}
+
+.cv-own-projects .project .details {
+  flex: 0 0 230px;
+}

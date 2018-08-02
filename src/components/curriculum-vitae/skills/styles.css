@@ -1,0 +1,17 @@
+.cv-skills .row {
+  margin-top: 10px;
+}
+
+.cv-skills .category {
+  display: inline-block;
+  width: 120px;
+}
+
+.cv-skills .values .value {
+  font-weight: 400;
+}
+
+.cv-skills .values .value:not(:last-child)::after {
+  content: ',';
+  margin-right: 5px;
+}

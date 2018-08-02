@@ -5,8 +5,8 @@ import Section from 'components/shared/section';
 const AboutMe = ({ description }) => (
   <Section title='About me'>
     I specialize in JavaScript-based applications development, mostly in
-    frontend area, but also have lots of experience in backend. I am keen
-    to work with Angular, Vue.js or Node.js.
+    frontend area using React.
+    Also have a lot of experience in backend.
   </Section>
 );
 

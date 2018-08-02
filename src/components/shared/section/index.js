@@ -6,7 +6,7 @@ import './styles.css';
 const Section = ({ children, className, title }) => (
   <div className={classNames('x-section', className)}>
     <h3>{title}</h3>
-    <div>
+    <div className='content'>
       {children}
     </div>
   </div>

@@ -1,0 +1,16 @@
+.cv-header {
+  text-align: center;
+}
+
+.cv-header .full-name {
+  font-weight: 300;
+  font-size: 3em;
+  margin: 0;
+}
+
+.cv-header .title {
+  font-weight: 300;
+  font-size: 1.3em;
+  margin-top: 0.5cm;
+  margin-bottom: 2cm;
+}
