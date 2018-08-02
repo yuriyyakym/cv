@@ -17,7 +17,11 @@
 .company-details .main-details .period {
   margin-top: 2px;
   color: #999;
-  font-size: 0.8em;
+  font-size: 1em;
+}
+
+.company-details .main-details a {
+  font-size: 0.9em;
 }
 
 .company-details .projects {
@@ -31,5 +35,5 @@
 .company-details .projects .project .technologies {
   margin-top: 2px;
   color: #999;
-  font-size: 0.8em;
+  font-size: 1em;
 }
