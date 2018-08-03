@@ -9,7 +9,7 @@ const OwnProjects = ({ values }) => (
       <div className='project'>
         <div className='details'>
           <div>{project.name}</div>
-          <a href={project.website}>{project.website}</a>
+          <a target='__blank' href={project.website}>{project.website}</a>
         </div>
         <div>
           {project.description}

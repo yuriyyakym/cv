@@ -3,7 +3,7 @@ export default [
   {
     name: 'Codilingus',
     website: 'http://codilignus.pl',
-    description: 'I have been a JavaScript mentor and school coordinator since Oct 2017 here. Taught programming basics, algorithmics and frontend development using React stack.'
+    description: 'I have been a JavaScript mentor and school coordinator since Oct 2017. Conducted classes of basics of programming, algorithms and frontend development using React stack.'
   },
   {
     name: 'R-Factor',

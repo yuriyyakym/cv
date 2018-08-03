@@ -14,6 +14,7 @@ const CompanyDetails = ({ details }) => (
       </div>
       <a
         className='website'
+        target='__blank'
         href={details.website}>
         {details.website}
       </a>
