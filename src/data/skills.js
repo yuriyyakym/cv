@@ -1,14 +1,18 @@
 export default [
   [
-    'Frontend',
-    [ 'React', 'Redux', 'Redux-Saga', 'Reselect', 'HTML', 'CSS' ]
+    'Front-end',
+    [ 'React', 'Redux', 'Redux-Saga', 'Redux-Observable', 'Reselect', 'HTML', 'CSS' ]
   ],
   [
-    'Backend',
+    'Back-end',
     [ 'Node.js', 'Express', 'Relational and non-relational databases' ]
   ],
   [
     'Additional tools',
-    [ 'Jest', 'Enzyme', 'RxJS', 'lodash', 'Ramda', 'RegExp', 'Webpack' ]
+    [ 'Jest', 'RxJS', 'lodash', 'Ramda', 'RegExp', 'Webpack' ]
+  ],
+  [
+    'Languages',
+    [ 'English', 'Polish', 'Ukrainian', 'Russian' ]
   ]
 ];

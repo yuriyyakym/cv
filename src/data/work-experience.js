@@ -29,7 +29,7 @@ export default [
         ]
       },
       {
-        description: 'Document generator with widgets',
+        description: 'Visual documents generator with predefined widgets',
         technologies: [
           'React', 'Redux', 'Redux-Thunk', 'SASS', 'Webpack'
         ]
@@ -44,7 +44,7 @@ export default [
     position: 'JavaScript developer',
     details: [
       {
-        description: 'REST backend for brandable products catalog',
+        description: 'REST backend for brandable products catalog application',
         technologies: [
           'Node.js', 'Express', 'Jasmine', 'PostgreSQL', 'Redis'
         ]
@@ -65,7 +65,7 @@ export default [
     position: 'JavaScript developer',
     details: [
       {
-        description: 'REST backend for brandable products catalog',
+        description: 'Social polling network website',
         technologies: [
           'Node.js', 'Express', 'MySQL', 'Jade', 'Stylus', 'Passport.js', 'Server side rendering'
         ]
@@ -75,12 +75,6 @@ export default [
         website: 'http://zinegenie.com',
         technologies: [
           'Objective-C', 'JavaScript', 'HTML', 'CSS', 'REST'
-        ]
-      },
-      {
-        description: 'Actors catalog iOS application',
-        technologies: [
-          'Objective-C', 'JavaScript', 'HTML', 'CSS'
         ]
       }
     ]

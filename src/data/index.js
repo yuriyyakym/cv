@@ -1,3 +1,4 @@
+import aboutMe from './about-me';
 import basicInfo from './basic-info';
 import contact from './contact';
 import skills from './skills';
@@ -5,8 +6,9 @@ import workExperience from './work-experience';
 import ownProjects from './own-projects';
 
 export {
-  contact,
+  aboutMe,
   basicInfo,
+  contact,
   ownProjects,
   skills,
   workExperience

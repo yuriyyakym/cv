@@ -1,12 +1,38 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 
-body {
+@page {
+  size: A4;
   margin: 0;
-  padding: 0;
-  font-size: 13px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   color: #222;
+  background: rgb(204,204,204);
+}
+
+page {
+  background: white;
+  width: 21cm;
+  height: 29.7cm;
+  display: block;
+  margin: 0 auto;
+  font-size: 11px;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+  page-break-after : auto;
+}
+
+@media print {
+  body, page {
+    margin: 0;
+    box-shadow: 0;
+  }
 }
 
 a {

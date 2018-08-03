@@ -2,11 +2,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Section from 'components/shared/section';
 
-const AboutMe = ({ description }) => (
+const AboutMe = ({ value }) => (
   <Section title='About me'>
-    I specialize in JavaScript-based applications development, mostly in
-    frontend area using React.
-    Also have a lot of experience in backend.
+    {value.map((paragraph) => (
+      <div>{paragraph}</div>
+    ))}
   </Section>
 );
 

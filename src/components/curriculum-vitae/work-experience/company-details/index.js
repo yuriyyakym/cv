@@ -8,7 +8,7 @@ const DATE_FORMAT = 'MMM YYYY';
 const CompanyDetails = ({ details }) => (
   <div className='company-details'>
     <div className='main-details'>
-      <div><b>{details.position}</b></div>
+      <div className='position'>{details.position}</div>
       <div>
         at <span className='company-name'>{details.companyName}</span>
       </div>

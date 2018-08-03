@@ -7,7 +7,7 @@
 }
 
 .company-details .main-details {
-  width: 230px;
+  width: 200px;
 }
 
 .company-details .main-details .company-name {
@@ -24,8 +24,18 @@
   font-size: 0.9em;
 }
 
+.company-details .main-details .position {
+  font-weight: 400;
+  font-size: 1.1em;
+}
+
 .company-details .projects {
   flex: 1;
+}
+
+.company-details .projects .project .header {
+  display: flex;
+  justify-content: space-between;
 }
 
 .company-details .projects .project ~ .project {
