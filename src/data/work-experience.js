@@ -19,7 +19,7 @@ export default [
     companyName: 'Codete',
     website: 'http://codete.com',
     startDate: new Date('06.01.2016'),
-    endDate: new Date('04.01.2018'),
+    endDate: new Date('03.01.2018'),
     position: 'Senior JavaScript developer',
     details: [
       {
@@ -40,7 +40,7 @@ export default [
     companyName: 'CodeUnit',
     website: 'http://codeunit.pl',
     startDate: new Date('12.01.2015'),
-    endDate: new Date('06.01.2016'),
+    endDate: new Date('05.01.2016'),
     position: 'JavaScript developer',
     details: [
       {
@@ -61,7 +61,7 @@ export default [
     companyName: 'ConnectedDigital Ltd',
     website: 'http://connecteddigital.com',
     startDate: new Date('10.01.2014'),
-    endDate: new Date('12.01.2015'),
+    endDate: new Date('11.01.2015'),
     position: 'JavaScript developer',
     details: [
       {

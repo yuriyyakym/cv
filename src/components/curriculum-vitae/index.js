@@ -16,7 +16,7 @@ const CurriculumVitae = () => (
       surname={basicInfo.surname}
       title={basicInfo.title} />
 
-    <Contact values={contact} />
+    <Contact {...contact} />
     {/*<AboutMe value={aboutMe} />*/}
     <Skills skills={skills} />
     <OwnProjects values={ownProjects} />

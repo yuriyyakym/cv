@@ -1,5 +1,5 @@
-export default [
-  [ 'Phone', '+48 531918741' ],
-  [ 'Email', 'yakym.yuriy@gmail.com' ],
-  [ 'Linkedin', 'https://www.linkedin.com/in/yuriyyakym' ]
-];
+export default {
+  phone: '+48 531 918 741',
+  email: 'yakym.yuriy@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/yuriyyakym'
+}
