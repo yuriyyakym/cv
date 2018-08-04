@@ -3,11 +3,11 @@
 }
 
 .company-details ~ .company-details {
-  margin-top: 20px;
+  margin-top: 0.5cm;
 }
 
 .company-details .main-details {
-  width: 200px;
+  width: 320px;
 }
 
 .company-details .main-details .company-name {
@@ -17,16 +17,15 @@
 .company-details .main-details .period {
   margin-top: 2px;
   color: #999;
-  font-size: 1em;
+  font-size: 8pt;
 }
 
 .company-details .main-details a {
-  font-size: 0.9em;
+  font-size: 8pt;
 }
 
 .company-details .main-details .position {
   font-weight: 400;
-  font-size: 1.1em;
 }
 
 .company-details .projects {
@@ -39,11 +38,11 @@
 }
 
 .company-details .projects .project ~ .project {
-  margin-top: 15px;
+  margin-top: 0.3cm;
 }
 
 .company-details .projects .project .technologies {
   margin-top: 2px;
   color: #999;
-  font-size: 1em;
+  font-size: 8pt;
 }

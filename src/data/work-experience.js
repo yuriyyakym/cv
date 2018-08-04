@@ -69,13 +69,6 @@ export default [
         technologies: [
           'Node.js', 'Express', 'MySQL', 'Jade', 'Stylus', 'Passport.js', 'Server side rendering'
         ]
-      },
-      {
-        description: 'Brandable digital publishing iOS application',
-        website: 'http://zinegenie.com',
-        technologies: [
-          'Objective-C', 'JavaScript', 'HTML', 'CSS', 'REST'
-        ]
       }
     ]
   }

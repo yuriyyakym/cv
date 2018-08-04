@@ -7,5 +7,9 @@
 }
 
 .cv-own-projects .project .details {
-  flex: 0 0 200px;
+  flex: 0 0 180px;
+}
+
+.cv-own-projects .project .description {
+  line-height: 13pt;
 }

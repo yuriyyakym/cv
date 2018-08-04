@@ -1,9 +1,5 @@
 .curriculum-vitae {
   position: relative;
-  width: 21cm;
-  height: 29.7cm;
-  padding: 1.2cm 1.5cm;
-  border: 1px solid rgba(0,0,0,0.1);
   box-sizing: border-box;
 }
 

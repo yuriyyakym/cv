@@ -22,8 +22,9 @@ page {
   height: 29.7cm;
   display: block;
   margin: 0 auto;
-  font-size: 11px;
+  font-size: 10pt;
   margin-bottom: 0.5cm;
+  padding: 2cm 2cm 1cm 2cm;
   box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
   page-break-after : auto;
 }

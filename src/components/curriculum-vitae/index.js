@@ -17,11 +17,11 @@ const CurriculumVitae = () => (
       title={basicInfo.title} />
 
     <Contact values={contact} />
-    <AboutMe value={aboutMe} />
+    {/*<AboutMe value={aboutMe} />*/}
     <Skills skills={skills} />
-    <WorkExperience values={workExperience} />
     <OwnProjects values={ownProjects} />
-    <Footer />
+    <WorkExperience values={workExperience} />
+    {/*<Footer />*/}
   </page>
 );
 

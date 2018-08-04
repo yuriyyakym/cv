@@ -20,7 +20,7 @@ const Skills = ({ skills }) => (
 );
 
 Skills.propTypes = {
-  skills: PropTypes.arrayOf(PropTypes.arrayOf(PropTypes.string))
+  skills: PropTypes.arrayOf(PropTypes.arrayOf(PropTypes.any))
 };
 
 export default Skills;
