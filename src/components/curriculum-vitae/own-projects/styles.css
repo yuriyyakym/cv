@@ -10,6 +10,14 @@
   flex: 0 0 180px;
 }
 
+.cv-own-projects .project .details .name {
+  font-weight: 400;
+}
+
+.cv-own-projects .project .details a {
+  font-size: 9pt;
+}
+
 .cv-own-projects .project .description {
   line-height: 13pt;
 }

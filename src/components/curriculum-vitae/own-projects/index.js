@@ -8,7 +8,7 @@ const OwnProjects = ({ values }) => (
     {values.map((project) => (
       <div className='project'>
         <div className='details'>
-          <div>{project.name}</div>
+          <div className='name'>{project.name}</div>
           <a target='__blank' href={project.website}>{project.website}</a>
         </div>
         <div className='description'>

@@ -8,7 +8,7 @@ export default [
   {
     name: 'Life Design',
     website: 'http://life-design.com.ua',
-    description: 'This is my ukrainian startup, designed to help user to compose his own painting himself, which will be later produced. in a constructor. Painting is later produced.'
+    description: 'This is my startup, designed to help user to compose his own painting himself, which will be later produced. in a constructor. Painting is later produced.'
   },
   {
     name: 'R-Factor',
