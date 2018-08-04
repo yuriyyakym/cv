@@ -5,11 +5,11 @@ export default [
   ],
   [
     'Back-end',
-    [ 'Node.js', 'Express', 'Relational and non-relational databases' ]
+    [ 'Node.js', 'Express', 'relational and non-relational databases' ]
   ],
   [
     'Additional tools',
-    [ 'Jest', 'RxJS', 'lodash', 'Ramda', 'RegExp', 'Webpack' ]
+    [ 'Jest', 'RxJS', 'lodash', 'RegExp', 'Webpack' ]
   ],
   [
     'Languages',

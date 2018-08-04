@@ -10,7 +10,7 @@ export default [
         description: 'Real-time one-to-one education platform for children',
         website: 'https://matr.org',
         technologies: [
-          'React', 'Redux', 'Redux-Saga', 'Reselect', 'WebRTC', 'Jest', 'SASS', 'Webpack'
+          'React', 'Redux', 'Redux-Saga', 'Reselect', 'SASS', 'WebRTC', 'Jest', 'Webpack'
         ]
       }
     ]
@@ -23,9 +23,9 @@ export default [
     position: 'Senior JavaScript developer',
     details: [
       {
-        description: 'Financial platform for investors of a US hedge fund',
+        description: 'Financial platform for US hedge fund investors',
         technologies: [
-          'React', 'Redux', 'Redux-Saga', 'Reselect', 'Jest', 'SASS', 'Webpack'
+          'React', 'Redux', 'Redux-Saga', 'Reselect', 'SASS', 'Jest', 'Webpack'
         ]
       },
       {
@@ -44,13 +44,13 @@ export default [
     position: 'JavaScript developer',
     details: [
       {
-        description: 'REST backend for brandable products catalog application',
+        description: 'RESTful API for brandable products catalog application',
         technologies: [
           'Node.js', 'Express', 'Jasmine', 'PostgreSQL', 'Redis'
         ]
       },
       {
-        description: 'Kanban board for tasks management application',
+        description: 'Kanban board for tasks management',
         technologies: [
           'JavaScript', 'HTML', 'Stylus', 'Node.js', 'restify', 'PostgreSQL'
         ]
