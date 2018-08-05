@@ -1,5 +1,5 @@
 .cv-contact {
-  margin-bottom: 1cm;
+  margin-bottom: 0.8cm;
 }
 
 .cv-contact .contact-row {
@@ -8,5 +8,5 @@
 }
 
 .cv-contact .contact-row .contact-name {
-  width: 70px;
+  width: 140px;
 }

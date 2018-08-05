@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './styles.css';
 
-const Contact = ({ phone, email }) => (
+const Contact = ({ phone, email, linkedin, stackoverflow }) => (
   <div className='cv-contact'>
       <div className='contact-row'>
         <div className='contact-name'>Phone</div>
@@ -12,6 +12,16 @@ const Contact = ({ phone, email }) => (
       <div className='contact-row'>
         <div className='contact-name'>Email</div>
         <a href={`mailto:${email}`}>{email}</a>
+      </div>
+
+      <div className='contact-row'>
+        <div className='contact-name'>Linkedin</div>
+        <a target='__blank' href={linkedin}>{linkedin}</a>
+      </div>
+
+      <div className='contact-row'>
+        <div className='contact-name'>Stack Overflow</div>
+        <a target='__blank' href={stackoverflow}>{stackoverflow}</a>
       </div>
   </div>
 );
